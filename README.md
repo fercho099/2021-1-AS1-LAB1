@@ -1,14 +1,14 @@
--Universidad Mariano Galvez de Guatemala.
+### Datos Personales.
 
--Nombre:Fernando José García Chacón.
--Carne: 1290-18-7601.
+- Fernando José García Chacón
+- Carne: 1290-18-7601
 
-##Usage
-
-**Comandos a utilizar:**
-
-#git clone (url repositorio).
-#git add -A sube varios archivos. si es solo uno usar git add (nombre archivo).
-#git status comprueba que todo esta listo para subir. 
-#git commit -m generar copia localmente.
-#git push.
+# Usage
+##### Comandos utilizados.
+- Git clone.
+- Git Add -A sube varios archivos si solo es uno usar 
+Git add (nombre archivo).
+- Git status.
+- Git config --global user.email "correo@example.com"
+- Git commit -m "nombre copia".
+- Git push.
