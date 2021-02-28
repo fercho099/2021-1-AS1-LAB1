@@ -1,14 +1,14 @@
-Universidad Mariano Galvez de Guatemala.
-Nombre:Fernando José García Chacón.
-Carne: 1290-18-7601.
+-Universidad Mariano Galvez de Guatemala.
 
-Usage
+-Nombre:Fernando José García Chacón.
+-Carne: 1290-18-7601.
 
-Comandos a utilizar:
+##Usage
 
-git clone (url repositorio).
-git add -A sube varios archivos. si es solo uno usar git add (nombre archivo).
-git status comprueba que todo esta listo para subir. 
+**Comandos a utilizar:**
 
-git commit -m generar copia localmente.
-git push.
+#git clone (url repositorio).
+#git add -A sube varios archivos. si es solo uno usar git add (nombre archivo).
+#git status comprueba que todo esta listo para subir. 
+#git commit -m generar copia localmente.
+#git push.
